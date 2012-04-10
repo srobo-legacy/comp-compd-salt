@@ -1,0 +1,3 @@
+include:
+  - compd.redis
+
